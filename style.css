@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  height: auto;
+  margin-top: 3rem;
+}
+
+.card-body a {
+  margin: auto;
+}
